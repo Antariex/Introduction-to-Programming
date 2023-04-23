@@ -24,23 +24,23 @@ This course will use Python 3 for programming and Visual Studio Code.
 </thead>
 <tbody>
 <tr>
-<td>Your First Program</td>
+<td>Your First Program (color.py)</td>
 <td>write a program that uses both input (obtaining data from the user via the keyboard) and output (displaying data to the user on the screen).</td>
 <td>A program that asks a user for their favorite color, then allow them to type in their color. Finally, have the program respond to them by displaying the text "Your favorite color is" followed by the color they typed.</td>
 </tr>
 <tr>
-<td>Input and Output</td>
+<td>Input and Output (name.py)</td>
 <td>Prompt the user for their first name. Then, prompt them for their last name. Display the text back all on one line saying, "Your name is last-name, first-name, last-name". Use the .title() function on each variable so that it capitalizes only the first letter and all the other letters are lowercase.</td>
 <td>An iconic line from the James Bond movies is that he would introduce himself as "Bond, James Bond." This program asks for the users´s name and repeats it back in this way.</td>
 </tr>
 <tr>
-<td>ID Badge Generator</td>
+<td>ID Badge Generator (badge.py)</td>
 <td>Write a program to prompt the user for the following: First name, Last name, Email Address, Phone Number, Job Title, ID Number. Then you should display the information back in certain format. In addition, you must implement the following requirements: the last name should be converted from whatever the user types to be displayed in ALL CAPS; the job title should be displayed so that the first letter is capitalized; and the email address should be displayed in all lowercase.
 Also: add hair color and eye color and put them both on the same line in the display; add a field for the name of the month they started and also a yes/no field for whether they have completed advanced training. Put these both on the same line in the display; for the two lines that you just added, make it so that the second columns align, regardless of how many letters are in the responses.</td>
 <td>An ID badge, such as a drivers license or student ID, contains personal details that are formatted in a very specific way. This program will create a properly formatted ID badge.</td>
 </tr>
 <tr>
-<td>Clever Stories</td>
+<td>Clever Stories (story.py)</td>
 <td>For this assignment, you will implement a program that asks the user for a series of words and then displays the story with   user's words inserted into the appropriate places. The program should begin by asking the user for each of the words. It should then, fill those words into the appropriate places in the story.</td>
 <td>Mad Libs are a type of funny story, where a person is asked for words without knowing their context. The words are then placed into a story in a pre-determined format, often resulting in funny statements.</td>
 </tr>
