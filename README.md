@@ -55,14 +55,22 @@ Also: add hair color and eye color and put them both on the same line in the dis
 </td>
 <td>It´s time to work with numbers, including computing mathematical formulas and other types of expressions, or combinations of variables and operations. For many types of programmers, working through calculations and manipulating numeric data is the primary reason they write programs. For example, scientists today use computers to simulate complex interactions that would be too difficult to work out by hand.
 </td>
-</tr>
-  
-  
-  
+</tr>  
 <tr>
 <td>Mathematical Expressions (maths.py)</td>
 <td>Write a program to convert from Fahrenheit to Celsius. Display the result to one decimal place of precision.</td>
 <td>With this exercise, you will learn how to solve more interesting problems using numeric data types.</td>
 </tr>
+<tr>
+<td>Areas of Shapes (areas.py)</td>
+<td>Write a program to compute the areas of three different shapes. Prompt for the necessary information, then compute and display the area, as follows:<br>
+Make sure that your program can appropriately handle decimal values as well as whole numbers.<br>
+Square: The area is the length of a side squared.<br>
+Rectangle: The area is the length multiplied by the width.<br>
+Circle: The area is Pi (you can use 3.14) multiplied by the radius squared.<br>
+Instead of using 3.14 for your value of Pi, see if you can find and use the built-in value of Pi included in the python "math" module.</td>
+<td>Python can be used to calculate values for data analysis and complex mathematical and scientific problems. With this activity, you will practice using variables and expressions for straight-forward math calculations. The purpose of the assignment is to help you become more comfortable using variables to accomplish a problem, not to focus on the actual math at hand.
+</td>
+</tr>  
 </tbody>
 </table>
