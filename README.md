@@ -56,5 +56,13 @@ Also: add hair color and eye color and put them both on the same line in the dis
 <td>It´s time to work with numbers, including computing mathematical formulas and other types of expressions, or combinations of variables and operations. For many types of programmers, working through calculations and manipulating numeric data is the primary reason they write programs. For example, scientists today use computers to simulate complex interactions that would be too difficult to work out by hand.
 </td>
 </tr>
+  
+  
+  
+<tr>
+<td>Mathematical Expressions (maths.py)</td>
+<td>Write a program to convert from Fahrenheit to Celsius. Display the result to one decimal place of precision.</td>
+<td>With this exercise, you will learn how to solve more interesting problems using numeric data types.</td>
+</tr>
 </tbody>
 </table>
