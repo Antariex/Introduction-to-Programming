@@ -25,7 +25,7 @@ This course will use Python 3 for programming and Visual Studio Code.
 <tbody>
 <tr>
 <td>Your First Program (color.py)</td>
-<td>write a program that uses both input (obtaining data from the user via the keyboard) and output (displaying data to the user on the screen).</td>
+<td>Write a program that uses both input (obtaining data from the user via the keyboard) and output (displaying data to the user on the screen).</td>
 <td>A program that asks a user for their favorite color, then allow them to type in their color. Finally, have the program respond to them by displaying the text "Your favorite color is" followed by the color they typed.</td>
 </tr>
 <tr>
@@ -41,8 +41,20 @@ Also: add hair color and eye color and put them both on the same line in the dis
 </tr>
 <tr>
 <td>Clever Stories (story.py)</td>
-<td>For this assignment, you will implement a program that asks the user for a series of words and then displays the story with   user's words inserted into the appropriate places. The program should begin by asking the user for each of the words. It should then, fill those words into the appropriate places in the story.</td>
+<td>Implement a program that asks the user for a series of words and then displays the story with   user's words inserted into the appropriate places. The program should begin by asking the user for each of the words. It should then, fill those words into the appropriate places in the story.</td>
 <td>Mad Libs are a type of funny story, where a person is asked for words without knowing their context. The words are then placed into a story in a pre-determined format, often resulting in funny statements.</td>
+</tr>
+<tr>
+<td>Numeric Variables (numeric.py)</td>
+<td>Write a program that does the following:
+<ol>
+<li>Prompt the user for their age. Convert it to a number, add one to it, and tell them how old they will be on their next birthday.</li>
+<li>Prompt the user for the number of egg cartons they have. Assume each carton holds 12 eggs, multiply their number by 12, and display the total number of eggs.</li>
+<li>Prompt the user for a number of cookies and a number of people. Then, divide the number of cookies by the number of people to determine how many cookies each person gets.</li>
+</ol>
+</td>
+<td>It´s time to work with numbers, including computing mathematical formulas and other types of expressions, or combinations of variables and operations. For many types of programmers, working through calculations and manipulating numeric data is the primary reason they write programs. For example, scientists today use computers to simulate complex interactions that would be too difficult to work out by hand.
+</td>
 </tr>
 </tbody>
 </table>
