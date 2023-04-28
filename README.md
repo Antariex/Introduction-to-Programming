@@ -5,7 +5,7 @@ CSE 110 is designed to be a first introduction to programming. In it, the studen
 
 - **Technology:**<br>
 This course will use Python 3 for programming and Visual Studio Code.
-;
+
 ### Course Outcomes
 <ol>
   <li>Use programming building blocks (variables, conditionals, loops, lists) to accomplish meaningful tasks in a variety of domains.</li>
